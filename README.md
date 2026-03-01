@@ -10,7 +10,7 @@
 |--------|----------|--------|
 | 📚 [Обучение Claude Code](#-обучение-claude-code) | `████████░░░░░░░░░░░░` **40%** (6/15 глав) | 🟡 В процессе |
 | 🎰 [TON Domains](#-ton-domains) | `████████████████████` **100%** ✅ (196/196) | 🟢 Завершён |
-| 🍓 [Битовалка 2.0](#-битовалка-20) | `██████░░░░░░░░░░░░░░` **30%** (3/5 этапов) | 🟡 В процессе |
+| 🍓 [Клубнички](#-клубнички) | `██████░░░░░░░░░░░░░░` **30%** (3/5 этапов) | 🟡 В процессе |
 | ♠️ [Poker Notes](#️-poker-notes) | `████░░░░░░░░░░░░░░░░` **20%** (эксперименты) | 🟡 В процессе |
 | 💬 [WhatsApp Translator](#-whatsapp-translator) | `████████████████████` **100%** ✅ | 🟢 Обкатка |
 
@@ -139,7 +139,7 @@
 ---
 
 <details>
-<summary><h2>🍓 Битовалка 2.0</h2></summary>
+<summary><h2>🍓 Клубнички</h2></summary>
 
 **Слот-машина "Fruit Cocktail" для платформы KhanGames (Telegram mini-app)**
 
@@ -210,7 +210,7 @@ KhanGames Platform (баланс, клубы, права)
 | 10 | Админ-панель (RTP настройки) | ⬜ |
 
 📄 **Концепция:** [SLOTS_RTP_SETTINGS_CONCEPT](https://gist.github.com/DXVSI/a9cee798c18d10917ed64617567bc23c)
-🔗 **Репозиторий:** [Holdemkhaan/bitovalka-2](https://github.com/Holdemkhaan/bitovalka-2)
+🔗 **Репозиторий:** [Holdemkhaan/klubnichki](https://github.com/Holdemkhaan/klubnichki)
 
 </details>
 
